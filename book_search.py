@@ -1,4 +1,4 @@
-# book_search.py (Student A - Issue #1)
+# Sample data: a small in-memory catalogue of books (title and author) used for searching.
 BOOKS = [
     {"title": "Software Engineering", "author": "Ian Sommerville"},
     {"title": "Software Engineering: A Practitioner's Approach", "author": "Roger Pressman"},
